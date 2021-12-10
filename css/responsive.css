@@ -1,0 +1,166 @@
+.wel-form-section {
+    position: relative;
+}
+
+.wel-form-section .container {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    left: 0;
+    right: 0;
+}
+.display-lg-none{
+	display: none;
+}
+@media(max-width: 1200px){
+h2 {
+    font-size: 40px !important;
+    line-height: 50px !important;
+}}
+@media(max-width: 991px){
+
+		.wel-form-section .container {
+    position: relative;
+    top: 0;
+    width: 100%;
+    left: 0;
+    right: 0;
+}
+.Book_Appointment_form {
+    margin: 0 auto;
+}
+.display-lg-none{
+	display: block;
+}
+h2 {
+    font-size: 40px !important;
+    line-height: 50px !important;
+}
+	.icon_ani {
+    position: relative;
+    top: 0px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+.Unique:after{
+	width: 100%;
+}
+.text-uni {
+    max-width: 100%;
+    margin: auto;
+}
+.navbar-light .navbar-toggler {
+    color: rgb(250 185 26);
+    border-color: rgb(250 185 26);
+    outline: none;
+    box-shadow: none;
+}
+.header .navbar-collapse {
+    position: absolute;
+    top: 100%;
+    background: #f1f1f1;
+    width: 100%;
+    left: 0;
+    z-index: 1000;
+    padding: 10px 0px;
+}
+
+.header .navbar-light .navbar-nav .nav-link.btn {
+    display: inline-block;
+    margin-left: 25px;
+}
+.clients_slider .slick-arrow {
+    position: absolute;
+    left: -61px;
+    bottom: 35px;
+}
+.clients_slider .slick-prev.slick-arrow {
+    left: -63px;
+    bottom: 100px;
+}
+.Book_Appointment_form {
+    top: 34px;
+}
+}
+@media(max-width: 767px){
+
+
+	.abs_img{
+		margin-bottom: 20px;
+	}
+	.What-clients .card_clients{
+		padding: 20px;
+	}
+	.Unique:after{
+	width: 100%;
+}
+	.top_bar_link {
+		font-size: 14px;
+	}
+.gallery {
+    padding: 50px 0px 30px;
+}
+.team_box h3{
+	font-size: 15px;
+}
+.team_box p{
+	font-size: 13px;
+}
+.our_expert{
+	padding-bottom: 60px;
+}
+.Book_Appointment_form h3{
+	font-size: 22px;
+}
+
+	.Book_Appointment_form {
+    
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+    top: 0;
+    position: relative;
+}
+.welcome-hiro-form h2 {
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 50px;}
+    .welcome-hiro-form h5 {
+    font-weight: 400;
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 30px !important;
+    line-height: 40px !important;
+}
+.icon_ani {
+    position: relative;
+    top: 0px;
+    margin-bottom: 0px;
+}
+.container-full {
+    overflow: hidden;
+    padding-left: 15px;
+}
+.footer_bottom {
+    display: block;
+}
+
+.footer_bottom .left {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.footer_bottom .left .logo-call a, .footer_bottom .left .logo-call span {
+    font-size: 14px;
+}
+}
+
+@media(max-width: 512px){
+	.icon_ani .item {
+    width: 100%;
+    margin-top: 30px;
+}
+
+}

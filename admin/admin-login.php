@@ -162,8 +162,8 @@ small .btn.btn-primary {
         </div>
         <div class="row px-md-4 px-1 m-0">
             
-            <div class="col-12"> <input type="email" class="form-control mb-4" name="email" id="pass" placeholder="Email"> </div>
-            <div class="col-12"> <input type="password" class="form-control mb-4" name="password" id="pass" placeholder="Password"> </div>
+            <div class="col-12"> <input type="email" class="form-control mb-4" name="email" id="pass" placeholder="Email" required="required"> </div>
+            <div class="col-12"> <input type="password" class="form-control mb-4" name="password" id="pass" placeholder="Password" required="required"> </div>
            
             <div class="col-12 create">
                <div class="btn btn-primary py-3 ">
@@ -203,7 +203,7 @@ if (isset($_POST['submit']))  {
           
         if($count >= 1){  
            ?> <script>alert("Successfully");
-               window.open('index.php','_self');
+               window.open('admin-index.php','_self');
 </script>  
 <?php
         }  
